@@ -101,6 +101,10 @@ Speech-to-text was the primary latency bottleneck in this implementation. The fa
 - Fixed recording window (5 seconds) rather than automatic silence-based cutoff
 - Requires an internet connection for the LLM step (Groq API)
 
+## Demo
+
+[Watch the demo video here](https://drive.google.com/file/d/1ar1UDynaHWB0ad9Cy5IHZZ8KXA_O5Hh-/view?usp=sharing)
+
 ## AI Usage Disclosure
 
 AI assistance (Claude, Anthropic) was used during this project for:
